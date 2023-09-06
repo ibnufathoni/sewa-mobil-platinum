@@ -1,0 +1,6 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+
+
+Sitemap: https://binar-car-rental-k1.vercel.app/sitemap.xml
